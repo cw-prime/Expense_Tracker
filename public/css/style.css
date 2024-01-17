@@ -1,0 +1,12 @@
+body {
+  padding-top: 20px;
+}
+
+.container {
+  max-width: 680px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+/* Add more global styles and responsive design elements as needed */
